@@ -1,4 +1,4 @@
-#My Background
+# My Background
 Since I took my first course in Python as an exchange student at National University of Singapore, I haven't looked back.
 
 Initially I wanted learn to code because I was using #grasshopper3d and wanted to become better and understand the concepts behind it.
