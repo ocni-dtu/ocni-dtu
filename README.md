@@ -28,6 +28,7 @@ When I code, I build things.
 - Python
 - Javascript/Typescript
 - C#
+- Rust
 - React
 - GraphQL
 - Kubernetes
@@ -39,6 +40,5 @@ When I code, I build things.
 - Redis
 
 # I Want to Learn
-- Rust
 - The Prometheus Stack
 - The Ory Network
